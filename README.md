@@ -5,13 +5,13 @@ Wemos D1 Mini Products provided by [Banggood.com](https://www.banggood.com)
 # See video #120 at https://www.youtube.com/ralphbacon
 (Direct link to this video: https://youtu.be/TKN9WmunCQU)
 
-The ESP8266-based boards, Arduino-sized, are very popular as they efectively give you Arduino Uno capabilities but with built in wi-fi. Wemos have a D1 (R2) version that is very popular.
+The ESP8266-based boards, Arduino-sized, are very popular as they efectively give you Arduino Uno capabilities but with built in wi-fi. Wemos have an (Arduino Uno-sized) D1 (R2) version that is very popular. The R2 version allows uploading of sketches without any faffing about with RESET and FLASH pins, thank goodness.
 
-Now, Wemos have a mini-sized board, the Wemos D1 Mini which has the same functionality as the full-sized board and which lends itself to allowing stackable shields, or add-ons, to give it extra functionality.
+Now, Wemos have a mini-sized board, the Wemos D1 Mini which has the same functionality as the R2 full-sized board and which lends itself to allowing stackable shields, or add-ons, to give it extra functionality.
 
 For example, you want to add a tiny OLED screen?  
 
-How about a LiPO battery module to keep it running?  
+How about a LiPO battery module to keep it running (or to act as a UPS)?  
 
 Or a temperature module?  
 
@@ -41,7 +41,7 @@ Wemos® Battery Shield V1.2.0 For Wemos D1 Mini Single Lithium Battery Charging 
 
 Excellway® 100Pcs Mini Micro JST 2.0 PH 2Pin Connector Plug With 120mm Wires Cables  
 These are the correct size!  
-https://ban.ggood.vip/1pu4
+\* https://ban.ggood.vip/1pu4
 
 Excellway® 10 Pairs 2 Pins JST Male & Female Connectors Plug Cable Wire Line 110mm Red  
 These ones were the WRONG SIZE for this module (they are full sized) but included here for reference:  
