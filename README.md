@@ -1,6 +1,6 @@
 # Wemos D1 Mini ESP8266 stackable
-A tiny, stackable version of the Wemos D1 ESP8266, with many "shields" to add functionality
-Products provided by [Banggood.com](https://www.banggood.com)
+A tiny, stackable version of the Wemos D1 ESP8266, with many "shields" to add functionality  
+Wemos D1 Mini Products provided by [Banggood.com](https://www.banggood.com)
 
 # See video #120 at https://www.youtube.com/ralphbacon
 (Direct link to this video: https://youtu.be/TKN9WmunCQU)
@@ -41,7 +41,7 @@ Wemos® Battery Shield V1.2.0 For Wemos D1 Mini Single Lithium Battery Charging 
 
 Excellway® 100Pcs Mini Micro JST 2.0 PH 2Pin Connector Plug With 120mm Wires Cables  
 These are the correct size!  
-https://www.banggood.com/100Pcs-Mini-Micro-JST-2_0-PH-2Pin-Connector-Plug-With-120mm-Wires-Cables-p-1147298.html
+https://ban.ggood.vip/1pu4
 
 Excellway® 10 Pairs 2 Pins JST Male & Female Connectors Plug Cable Wire Line 110mm Red  
 These ones were the WRONG SIZE for this module (they are full sized) but included here for reference:  
