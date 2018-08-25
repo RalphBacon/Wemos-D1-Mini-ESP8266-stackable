@@ -1,6 +1,6 @@
 # Wemos D1 Mini ESP8266 stackable
 A tiny, stackable version of the Wemos D1 ESP8266, with many "shields" to add functionality  
-Wemos D1 Mini Products provided by [Banggood.com](https://www.banggood.com)
+Wemos D1 Mini Products provided by Banggood
 
 # See video #120 at https://www.youtube.com/ralphbacon
 (Direct link to this video: https://youtu.be/TKN9WmunCQU)
